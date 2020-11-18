@@ -1,3 +1,4 @@
+let coursesList = ["ACIT 1620", "ACIT 1420", "Math 1310"]
 var coursesList = ['name','code'];
 coursesList[1] = 'name: Fundemental Web Technology','code = ACIT 1620';
 console.log(coursesList)
