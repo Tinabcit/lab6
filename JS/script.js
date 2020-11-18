@@ -15,5 +15,6 @@ let i =0;
 let arraycoursesList= array. coursesList
 while ( i< arraycoursesList) {
     console.log('Yes I am taking the course: ACIT 1620 - Fundemental Web Technologies' +arraycoursesList);
+    console.log ('No I am not taking the course: ACIT 1620 - Fundemental Web Technologies' +arraycoursesList)
     i++;
 }
